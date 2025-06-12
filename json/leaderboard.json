@@ -1,0 +1,2299 @@
+{
+  "success": true,
+  "data": [
+    {
+      "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "market_cap": 10369993676.849745,
+      "price": 10.446446571672535,
+      "price_24h_change": -5.5951,
+      "holder": 640566
+    },
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "market_cap": 8428475111.168768,
+      "price": 1,
+      "price_24h_change": 0.0017,
+      "holder": 4536040
+    },
+    {
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "market_cap": 3221605986.3618345,
+      "price": 0.4661161478344728,
+      "price_24h_change": -6.83085,
+      "holder": 935706
+    },
+    {
+      "address": "So11111111111111111111111111111111111111112",
+      "market_cap": 2526435149.41762,
+      "price": 160.55087568614002,
+      "price_24h_change": -4.35863,
+      "holder": 2184372
+    },
+    {
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "market_cap": 2389928454.419311,
+      "price": 1.0001861581821578,
+      "price_24h_change": -0.00411,
+      "holder": 2095200
+    },
+    {
+      "address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+      "market_cap": 2039999427.4948413,
+      "price": 2.0590837799485118,
+      "price_24h_change": -7.71668,
+      "holder": 69886
+    },
+    {
+      "address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+      "market_cap": 1719991823.165136,
+      "price": 1.7361217341476227,
+      "price_24h_change": -14.8327,
+      "holder": 333831
+    },
+    {
+      "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+      "market_cap": 1565885687.5856788,
+      "price": 3.810700263346294,
+      "price_24h_change": -6.59515,
+      "holder": 96766
+    },
+    {
+      "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+      "market_cap": 1558605886.1974509,
+      "price": 4.560218939006438,
+      "price_24h_change": -1.96844,
+      "holder": 77795
+    },
+    {
+      "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "market_cap": 1443039219.1668336,
+      "price": 0.000016490419445050005,
+      "price_24h_change": -9.30132,
+      "holder": 941571
+    },
+    {
+      "address": "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85",
+      "market_cap": 1393354718.347531,
+      "price": 169.28405106622014,
+      "price_24h_change": -4.70149,
+      "holder": 10412
+    },
+    {
+      "address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+      "market_cap": 1329989210.9777508,
+      "price": 1.373607505212816,
+      "price_24h_change": -3.85691,
+      "holder": 159601
+    },
+    {
+      "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "market_cap": 1248747165.3165278,
+      "price": 2.2784700386551724,
+      "price_24h_change": -9.58989,
+      "holder": 241488
+    },
+    {
+      "address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+      "market_cap": 1187938397.9506552,
+      "price": 0.11982403112369591,
+      "price_24h_change": -8.54449,
+      "holder": 322052
+    },
+    {
+      "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "market_cap": 929261360.3156277,
+      "price": 0.9462577983227116,
+      "price_24h_change": -9.03108,
+      "holder": 242938
+    },
+    {
+      "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+      "market_cap": 853190171.6806302,
+      "price": 0.8582764009571523,
+      "price_24h_change": -5.49617,
+      "holder": 151413
+    },
+    {
+      "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "market_cap": 841831237.3118001,
+      "price": 0.011071350825405304,
+      "price_24h_change": -8.4754,
+      "holder": 564853
+    },
+    {
+      "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "market_cap": 815498340.1210549,
+      "price": 178.93289565008394,
+      "price_24h_change": -4.64209,
+      "holder": 29068
+    },
+    {
+      "address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
+      "market_cap": 749089718.2655168,
+      "price": 0.7532579584985502,
+      "price_24h_change": -6.17407,
+      "holder": 59795
+    },
+    {
+      "address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+      "market_cap": 732219268.202448,
+      "price": 0.0737615026861431,
+      "price_24h_change": -7.28338,
+      "holder": 106443
+    },
+    {
+      "address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
+      "market_cap": 611577545.2137035,
+      "price": 0.7771889693413376,
+      "price_24h_change": -8.28134,
+      "holder": 85814
+    },
+    {
+      "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "market_cap": 611288955.9923016,
+      "price": 0.061829239270374745,
+      "price_24h_change": -12.50082,
+      "holder": 55384
+    },
+    {
+      "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
+      "market_cap": 528626240.81617886,
+      "price": 0.2237121018336805,
+      "price_24h_change": -7.85244,
+      "holder": 44788
+    },
+    {
+      "address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+      "market_cap": 493580918.16062456,
+      "price": 0.49758017390352877,
+      "price_24h_change": -7.53152,
+      "holder": 22696
+    },
+    {
+      "address": "HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+      "market_cap": 452115203.95676374,
+      "price": 0.04563889061390084,
+      "price_24h_change": -5.67315,
+      "holder": 18559
+    },
+    {
+      "address": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+      "market_cap": 422920305.25820196,
+      "price": 0.004283921594023449,
+      "price_24h_change": 6.56299,
+      "holder": 75098
+    },
+    {
+      "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+      "market_cap": 396319859.59525204,
+      "price": 828.6455584955016,
+      "price_24h_change": -9.44308,
+      "holder": 17255
+    },
+    {
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "market_cap": 390316458.3346164,
+      "price": 107731.32228782112,
+      "price_24h_change": -2.50288,
+      "holder": 53522
+    },
+    {
+      "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "market_cap": 336556463.6469275,
+      "price": 107725.47440778579,
+      "price_24h_change": -2.70593,
+      "holder": 30088
+    },
+    {
+      "address": "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
+      "market_cap": 333269331.1161306,
+      "price": 174.1245853552855,
+      "price_24h_change": -4.80922,
+      "holder": 10291
+    },
+    {
+      "address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+      "market_cap": 280247167.52314854,
+      "price": 0.003183032264687878,
+      "price_24h_change": -8.62804,
+      "holder": 174973
+    },
+    {
+      "address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+      "market_cap": 263734470.76586944,
+      "price": 0.02643408734144593,
+      "price_24h_change": -4.36301,
+      "holder": 6204
+    },
+    {
+      "address": "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
+      "market_cap": 258629658.30486748,
+      "price": 179.68294385287024,
+      "price_24h_change": -4.55257,
+      "holder": 6228
+    },
+    {
+      "address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+      "market_cap": 257819964.61593643,
+      "price": 0.2606510407415047,
+      "price_24h_change": -12.48964,
+      "holder": 93063
+    },
+    {
+      "address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+      "market_cap": 252239587.8051999,
+      "price": 173.19644337691244,
+      "price_24h_change": 0,
+      "holder": 8059
+    },
+    {
+      "address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+      "market_cap": 220414343.1163644,
+      "price": 0.21791536434945585,
+      "price_24h_change": 2.58412,
+      "holder": 89267
+    },
+    {
+      "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+      "market_cap": 207857916.39463657,
+      "price": 0.19081732045616842,
+      "price_24h_change": -16.64448,
+      "holder": 114288
+    },
+    {
+      "address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+      "market_cap": 195630930.20304215,
+      "price": 1.701597083161324,
+      "price_24h_change": 0.14904,
+      "holder": 54160
+    },
+    {
+      "address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+      "market_cap": 193728512.54034662,
+      "price": 2769.8860586281107,
+      "price_24h_change": -2.93764,
+      "holder": 62947
+    },
+    {
+      "address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+      "market_cap": 180444376.70398542,
+      "price": 0.1852,
+      "price_24h_change": -12.00496,
+      "holder": 76750
+    },
+    {
+      "address": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+      "market_cap": 177766715.67904705,
+      "price": 1.092170013306092,
+      "price_24h_change": 0.0174,
+      "holder": 6302
+    },
+    {
+      "address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+      "market_cap": 165865990.6224121,
+      "price": 0.1662896776444441,
+      "price_24h_change": -60.96941,
+      "holder": 4416
+    },
+    {
+      "address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+      "market_cap": 159336476.52873823,
+      "price": 0.016087823019827897,
+      "price_24h_change": 0.42897,
+      "holder": 55826
+    },
+    {
+      "address": "shixxut6zHRKnbCVqzBDB6tDBFWKqds92gu9n1HXj5i",
+      "market_cap": 147710521.2,
+      "price": 0.8910714674603333,
+      "price_24h_change": -0.08126,
+      "holder": 95
+    },
+    {
+      "address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+      "market_cap": 145222357.32070345,
+      "price": 0.1490549133499306,
+      "price_24h_change": -1.6814,
+      "holder": 90911
+    },
+    {
+      "address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+      "market_cap": 128336812.43511659,
+      "price": 0.12901612856304975,
+      "price_24h_change": -4.22745,
+      "holder": 17948
+    },
+    {
+      "address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+      "market_cap": 126633804.71693887,
+      "price": 0.12696707436118743,
+      "price_24h_change": -6.67899,
+      "holder": 23913
+    },
+    {
+      "address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+      "market_cap": 126295192.00080736,
+      "price": 0.0018556624880595525,
+      "price_24h_change": -9.95324,
+      "holder": 89114
+    },
+    {
+      "address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+      "market_cap": 118983149.322107,
+      "price": 0.1213921255187888,
+      "price_24h_change": -13.62356,
+      "holder": 92644
+    },
+    {
+      "address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+      "market_cap": 116195981.32109642,
+      "price": 0.11610625547613558,
+      "price_24h_change": -0.962,
+      "holder": 15817
+    },
+    {
+      "address": "LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp",
+      "market_cap": 101299775.36357483,
+      "price": 1.0169958554099805,
+      "price_24h_change": -0.16449,
+      "holder": 4542
+    },
+    {
+      "address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+      "market_cap": 98977996.66036516,
+      "price": 0.05226375112838669,
+      "price_24h_change": -7.00284,
+      "holder": 422894
+    },
+    {
+      "address": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+      "market_cap": 92093700.44262488,
+      "price": 176.11195562913193,
+      "price_24h_change": -4.74147,
+      "holder": 11043
+    },
+    {
+      "address": "FgQ3sxj54SmVzttkxuK4bdiEnUNi6kF9Hyx3ezKW72hn",
+      "market_cap": 91822400,
+      "price": 0.009183015265249077,
+      "price_24h_change": -4.65522,
+      "holder": 2091
+    },
+    {
+      "address": "7atgF8KQo4wJrD5ATGX7t1V2zVvykPJbFfNeVf1icFv1",
+      "market_cap": 90453335.3617082,
+      "price": 8.303141827112449E-8,
+      "price_24h_change": -7.75936,
+      "holder": 1540609
+    },
+    {
+      "address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
+      "market_cap": 86563429.98274963,
+      "price": 174.4236054556338,
+      "price_24h_change": -4.54607,
+      "holder": 60781
+    },
+    {
+      "address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+      "market_cap": 81223526.68383999,
+      "price": 1.1584815311036574,
+      "price_24h_change": 0.88917,
+      "holder": 42985
+    },
+    {
+      "address": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+      "market_cap": 72021893.63524544,
+      "price": 0.0071648638973389345,
+      "price_24h_change": -8.83232,
+      "holder": 3038
+    },
+    {
+      "address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+      "market_cap": 68911952.94218664,
+      "price": 0.07021404621638425,
+      "price_24h_change": -6.84771,
+      "holder": 50725
+    },
+    {
+      "address": "BCNT4t3rv5Hva8RnUtJUJLnxzeFAabcYp8CghC1SmWin",
+      "market_cap": 58171836.518187426,
+      "price": 0.0057532742918001995,
+      "price_24h_change": -32.49947,
+      "holder": 55149
+    },
+    {
+      "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+      "market_cap": 54215121.639617056,
+      "price": 0.057926112349759036,
+      "price_24h_change": -12.32269,
+      "holder": 82303
+    },
+    {
+      "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "market_cap": 51072369.600195065,
+      "price": 3181.4375500400324,
+      "price_24h_change": 11.18474,
+      "holder": 9198
+    },
+    {
+      "address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+      "market_cap": 50594135.016058445,
+      "price": 0.05096184325589265,
+      "price_24h_change": -14.24491,
+      "holder": 67813
+    },
+    {
+      "address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+      "market_cap": 45579555.89662323,
+      "price": 0.04864211910438747,
+      "price_24h_change": -8.31153,
+      "holder": 45100
+    },
+    {
+      "address": "Kruj63Qx9EQX9QzukLCBgx5g9AGW69gPDsSK25FRZAi",
+      "market_cap": 41194192.57301263,
+      "price": 0.041931781649148785,
+      "price_24h_change": -5.27414,
+      "holder": 3436
+    },
+    {
+      "address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+      "market_cap": 38185717.201944746,
+      "price": 0.0010669767448450052,
+      "price_24h_change": -4.74488,
+      "holder": 146918
+    },
+    {
+      "address": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD",
+      "market_cap": 35986388.92818478,
+      "price": 0.15785781869446702,
+      "price_24h_change": -0.10338,
+      "holder": 815
+    },
+    {
+      "address": "B89Hd5Juz7JP2dxCZXFJWk4tMTcbw7feDhuWGb3kq5qE",
+      "market_cap": 34491712.788341336,
+      "price": 0.034422966850756055,
+      "price_24h_change": -7.31698,
+      "holder": 131337
+    },
+    {
+      "address": "H4SFaUnxrZRoFnhBeotZnuqw4mfVtJ2nCvGrPmQupump",
+      "market_cap": 34382211.37942275,
+      "price": 0.03464156371944616,
+      "price_24h_change": -4.3153,
+      "holder": 2613
+    },
+    {
+      "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+      "market_cap": 33804224.6459893,
+      "price": 0.03408133187610015,
+      "price_24h_change": -16.91906,
+      "holder": 51990
+    },
+    {
+      "address": "M1M6sdffCs3ozzhpRveweRCWdZhxth4mvVujPtYEC3h",
+      "market_cap": 33296129.966006238,
+      "price": 0.001500404141539067,
+      "price_24h_change": -2.65762,
+      "holder": 654
+    },
+    {
+      "address": "ASRRjA1R4RHVk5H9QKKm1jaQqMkxvv6nh5EypPrvwmxQ",
+      "market_cap": 33240739.41888535,
+      "price": 0.33595264176823686,
+      "price_24h_change": 3.88368,
+      "holder": 10252
+    },
+    {
+      "address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+      "market_cap": 31400090.684598006,
+      "price": 192.195995181346,
+      "price_24h_change": 0,
+      "holder": 1256
+    },
+    {
+      "address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+      "market_cap": 29444891.911305342,
+      "price": 0.02954801912893756,
+      "price_24h_change": -12.03962,
+      "holder": 74173
+    },
+    {
+      "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+      "market_cap": 28607525.755620547,
+      "price": 0.031186704813514845,
+      "price_24h_change": -10.32971,
+      "holder": 23455
+    },
+    {
+      "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+      "market_cap": 28282924.018671364,
+      "price": 0.00003920917197840609,
+      "price_24h_change": -10.43943,
+      "holder": 226991
+    },
+    {
+      "address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+      "market_cap": 27879164.316053536,
+      "price": 0.2399239752522618,
+      "price_24h_change": 0.66258,
+      "holder": 11782
+    },
+    {
+      "address": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
+      "market_cap": 26842278.180461645,
+      "price": 180.44847508895978,
+      "holder": 4936
+    },
+    {
+      "address": "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp",
+      "market_cap": 25770046.47755934,
+      "price": 228.1261336066513,
+      "price_24h_change": 0,
+      "holder": 27100
+    },
+    {
+      "address": "bgSoLfRx1wRPehwC9TyG568AGjnf1sQG1MYa8s3FbfY",
+      "market_cap": 25048159.258236,
+      "price": 173.88,
+      "price_24h_change": -4.70355,
+      "holder": 26
+    },
+    {
+      "address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+      "market_cap": 21987434.889680147,
+      "price": 0.02268769193171246,
+      "price_24h_change": -20.69529,
+      "holder": 42336
+    },
+    {
+      "address": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+      "market_cap": 21750617.17464354,
+      "price": 0.02204101633094521,
+      "price_24h_change": -10.64149,
+      "holder": 38862
+    },
+    {
+      "address": "mtQ5jWgCqrgBiSut29b4HV19RkMBGA6vidwTMqhNmyy",
+      "market_cap": 21597822.318645,
+      "price": 0.68721,
+      "price_24h_change": 0.80021,
+      "holder": 65
+    },
+    {
+      "address": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+      "market_cap": 20982055.96812644,
+      "price": 0.06757804915910434,
+      "price_24h_change": -6.71387,
+      "holder": 15716
+    },
+    {
+      "address": "GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr",
+      "market_cap": 20279956.09,
+      "price": 1,
+      "price_24h_change": 0,
+      "holder": 2
+    },
+    {
+      "address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+      "market_cap": 20242902.239370946,
+      "price": 0.03786321216282021,
+      "price_24h_change": -17.01233,
+      "holder": 48486
+    },
+    {
+      "address": "EzgfrTjgFyHGaU5BEBRETyfawt66bAYqJvcryWuJtQ5w",
+      "market_cap": 20028284.765696,
+      "price": 0.00200309,
+      "holder": 11017
+    },
+    {
+      "address": "CN162nCPpq3DxPCyKLbAvEJeB1aCxsnVTEG4ZU8vpump",
+      "market_cap": 19390921.28163787,
+      "price": 0.01981920683771002,
+      "price_24h_change": -4.11736,
+      "holder": 46393
+    },
+    {
+      "address": "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa",
+      "market_cap": 17415215.180143114,
+      "price": 0.017561170214669942,
+      "price_24h_change": -4.91447,
+      "holder": 15545
+    },
+    {
+      "address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+      "market_cap": 17254291.31910668,
+      "price": 0.01739311201017284,
+      "price_24h_change": -15.11677,
+      "holder": 27933
+    },
+    {
+      "address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+      "market_cap": 17088325.488852657,
+      "price": 0.017773287394931846,
+      "price_24h_change": -3.33213,
+      "holder": 17665
+    },
+    {
+      "address": "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump",
+      "market_cap": 16778139.57974722,
+      "price": 0.01684549751010742,
+      "price_24h_change": -10.33883,
+      "holder": 5545
+    },
+    {
+      "address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+      "market_cap": 16754933.983965835,
+      "price": 0.01732718751493556,
+      "price_24h_change": -12.40039,
+      "holder": 22719
+    },
+    {
+      "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+      "market_cap": 16693094.996183068,
+      "price": 5.041021380314428,
+      "price_24h_change": -9.6546,
+      "holder": 14070
+    },
+    {
+      "address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+      "market_cap": 16032135.211433124,
+      "price": 0.01636021937160157,
+      "price_24h_change": -18.11692,
+      "holder": 23026
+    },
+    {
+      "address": "fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C",
+      "market_cap": 15966724.85192346,
+      "price": 0.016194665679027914,
+      "price_24h_change": -17.64563,
+      "holder": 6986
+    },
+    {
+      "address": "CoRAitPvr9seu5F9Hk39vbjqA1o1XuoryHjSk1Z1q2mo",
+      "market_cap": 15478992.417262087,
+      "price": 0.001577892076648582,
+      "price_24h_change": -5.17926,
+      "holder": 1730
+    },
+    {
+      "address": "Ee4ooSk6GMC34T1Gbh8rRY2XLyuk2FsyiWtq3jrHUcPR",
+      "market_cap": 15191400,
+      "price": 0.04964417286983907,
+      "price_24h_change": -1.9882,
+      "holder": 76
+    },
+    {
+      "address": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+      "market_cap": 15137370.864093713,
+      "price": 0.01702784979722053,
+      "price_24h_change": -6.73603,
+      "holder": 8636
+    },
+    {
+      "address": "CvB1ztJvpYQPvdPBePtRzjL4aQidjydtUz61NWgcgQtP",
+      "market_cap": 14945475.484215867,
+      "price": 0.014927868237680027,
+      "price_24h_change": -0.82348,
+      "holder": 1984
+    }
+  ],
+  "metadata": {
+    "tokens": {
+      "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN": {
+        "token_address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+        "token_name": "OFFICIAL TRUMP",
+        "token_symbol": "TRUMP",
+        "token_icon": "https://arweave.net/VQrPjACwnQRmxdKBTqNwPiyo65x7LAT773t8Kd7YBzw",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 10.446446571672535,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+        "token_address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "token_name": "USDC",
+        "token_symbol": "USDC",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN": {
+        "token_address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+        "token_name": "Jupiter",
+        "token_symbol": "JUP",
+        "token_icon": "https://static.jup.ag/jup/icon.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.4661161478344728,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "So11111111111111111111111111111111111111112": {
+        "token_address": "So11111111111111111111111111111111111111112",
+        "token_name": "Wrapped SOL",
+        "token_symbol": "WSOL",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 160.55087568614002,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+        "token_address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "token_name": "USDT",
+        "token_symbol": "USDT",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1.0001861581821578,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+          "token_name": "USDT",
+          "token_symbol": "USDT",
+          "token_icon": ""
+        }
+      },
+      "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL": {
+        "token_address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL",
+        "token_name": "JITO",
+        "token_symbol": "JTO",
+        "token_icon": "https://metadata.jito.network/token/jto/image",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 2.0590837799485118,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs": {
+        "token_address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs",
+        "token_name": "Grass",
+        "token_symbol": "GRASS",
+        "token_icon": "https://static.grassfoundation.io/grass-logo.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 1.7361217341476227,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof": {
+        "token_address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+        "token_name": "Render Token",
+        "token_symbol": "RENDER",
+        "token_icon": "https://shdw-drive.genesysgo.net/5zseP54TGrcz9C8HdjZwJJsZ6f3VbP11p1abwKWGykZH/rndr.png",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 3.810700263346294,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4": {
+        "token_address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+        "token_name": "Jupiter Perps LP",
+        "token_symbol": "JLP",
+        "token_icon": "https://static.jup.ag/jlp/icon.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 4.560218939006438,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+        "token_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+        "token_name": "Bonk",
+        "token_symbol": "Bonk",
+        "token_icon": "https://arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I",
+        "token_decimals": 5,
+        "token_type": "token",
+        "price_usdt": 0.000016490419445050005,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85": {
+        "token_address": "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85",
+        "token_name": "Binance Staked SOL",
+        "token_symbol": "BNSOL",
+        "token_icon": "https://arweave.net/LepI-hea-JrbLMb4L_HpMzaq9k0aHY2-lVSGiBtwvFM?ext=png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 169.28405106622014,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump": {
+        "token_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+        "token_name": "Fartcoin ",
+        "token_symbol": "Fartcoin ",
+        "token_icon": "https://ipfs.io/ipfs/QmQr3Fz4h1etNsF7oLGMRHiCzhB5y9a7GjyodnF7zLHK1g",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1.373607505212816,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R": {
+        "token_address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+        "token_name": "Raydium",
+        "token_symbol": "RAY",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R/logo.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 2.2784700386551724,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3": {
+        "token_address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3",
+        "token_name": "Pyth Network",
+        "token_symbol": "PYTH",
+        "token_icon": "https://pyth.network/token.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.11982403112369591,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm": {
+        "token_address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+        "token_name": "dogwifhat",
+        "token_symbol": "$WIF",
+        "token_icon": "https://bafkreibk3covs5ltyqxa272uodhculbr6kea6betidfwy3ajsav2vjzyum.ipfs.nftstorage.link",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.9462577983227116,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u": {
+        "token_address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+        "token_name": "Magic Eden",
+        "token_symbol": "ME",
+        "token_icon": "https://arweave.net/hhifTzaEDnPKnYNi4aAhkZTUkNLoK6d3nMiQPAjByn4",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.8582764009571523,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv": {
+        "token_address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+        "token_name": "Pudgy Penguins",
+        "token_symbol": "PENGU",
+        "token_icon": "https://arweave.net/BW67hICaKGd2_wamSB0IQq-x7Xwtmr2oJj1WnWGJRHU",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.011071350825405304,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v": {
+        "token_address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+        "token_name": "Jupiter Staked SOL",
+        "token_symbol": "JupSOL",
+        "token_icon": "https://static.jup.ag/jupSOL/icon.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 178.93289565008394,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc": {
+        "token_address": "LAYER4xPpTCb3QL8S9u41EAhAX7mhBn8Q6xMTwY2Yzc",
+        "token_name": "Solayer",
+        "token_symbol": "LAYER",
+        "token_icon": "https://metadata.solayer.org/layer/image.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.7532579584985502,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ": {
+        "token_address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ",
+        "token_name": "Wormhole Token",
+        "token_symbol": "W",
+        "token_icon": "https://wormhole.com/token.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0737615026861431,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K": {
+        "token_address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K",
+        "token_name": "IO",
+        "token_symbol": "IO",
+        "token_icon": "https://bafkreicnqsbhpzxiasdm5esr7fqi3vcjvcbfefo4sq4y3ff747rfqf7w7i.ipfs.nftstorage.link",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 0.7771889693413376,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS": {
+        "token_address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+        "token_name": "Kamino",
+        "token_symbol": "KMNO",
+        "token_icon": "https://cdn.kamino.finance/kamino.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.061829239270374745,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES": {
+        "token_address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
+        "token_name": "Sonic SVM",
+        "token_symbol": "SONIC",
+        "token_icon": "https://arweave.net/599UDQd5YAUfesAJCTNZ-4ELWLHX5pbid-ahpoJ-w1A",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.2237121018336805,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7": {
+        "token_address": "DriFtupJYLTosbwoN8koMbEYSx54aFAVLddWsbksjwg7",
+        "token_name": "Drift",
+        "token_symbol": "DRIFT",
+        "token_icon": "https://metadata.drift.foundation/drift.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.49758017390352877,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw": {
+        "token_address": "HUMA1821qVDKta3u2ovmfDQeW2fSQouSKE8fkF44wvGw",
+        "token_name": "Huma Finance",
+        "token_symbol": "HUMA",
+        "token_icon": "https://meta.huma.finance/huma.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.04563889061390084,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU": {
+        "token_address": "ZBCNpuD7YMXzTHB2fhGkGi78MNsHGLRXUhRewNRm9RU",
+        "token_name": "Zebec Network",
+        "token_symbol": "ZBCN",
+        "token_icon": "https://blznujiyxatc2qyysynmwqqqoreckcg2aolugfgoflsqqaiztuiq.arweave.net/CvLaJRi4Ji1DGJYay0IQdEglCNoDl0MUzirlCAEZnRE",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.004283921594023449,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk": {
+        "token_address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+        "token_name": "Wrapped Ethereum (Sollet)",
+        "token_symbol": "ETH",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 828.6455584955016,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh": {
+        "token_address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+        "token_name": "Wrapped BTC (Wormhole)",
+        "token_symbol": "WBTC",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh/logo.png",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 107731.32228782112,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij": {
+        "token_address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+        "token_name": "Coinbase Wrapped BTC",
+        "token_symbol": "cbBTC",
+        "token_icon": "https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 107725.47440778579,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B": {
+        "token_address": "Bybit2vBJGhPF52GBdNaQfUJ6ZpThSgHBobjWZpLPb4B",
+        "token_name": "BybitSOL",
+        "token_symbol": "bbSOL",
+        "token_icon": "https://static.bymj.io/web3/staking/bbsol/bbsol2.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 174.1245853552855,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5": {
+        "token_address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5",
+        "token_name": "cat in a dogs world",
+        "token_symbol": "MEW",
+        "token_icon": "https://bafkreidlwyr565dxtao2ipsze6bmzpszqzybz7sqi2zaet5fs7k53henju.ipfs.nftstorage.link/",
+        "token_decimals": 5,
+        "token_type": "token",
+        "price_usdt": 0.003183032264687878,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M": {
+        "token_address": "z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M",
+        "token_name": "Oxygen Protocol",
+        "token_symbol": "OXY",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M/logo.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.02643408734144593,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ": {
+        "token_address": "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
+        "token_name": "Drift Staked SOL",
+        "token_symbol": "dSOL",
+        "token_icon": "https://drift-public.s3.eu-central-1.amazonaws.com/dSOL.svg",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 179.68294385287024,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "Dso1bDeDjCQxTrWHqUUi63oBvV7Mdm6WaobLbQ7gnPQ",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump": {
+        "token_address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+        "token_name": "Peanut the Squirrel ",
+        "token_symbol": "Pnut ",
+        "token_icon": "https://ipfs.io/ipfs/QmNdTtJauw39u4DzGyTaZ35rRx4VgAxqb91wE89zjyHWd2",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.2606510407415047,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7": {
+        "token_address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+        "token_name": "vSOL",
+        "token_symbol": "vSOL",
+        "token_icon": "https://gateway.irys.xyz/DTBps6awrJWectiBhMubYke4TBnE9kkVqyCVP4MB4irB",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 173.19644337691244,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq": {
+        "token_address": "ZEUS1aR7aX8DFFJf5QjWj2ftDDdNTroMNGo8YoQm3Gq",
+        "token_name": "ZEUS",
+        "token_symbol": "ZEUS",
+        "token_icon": "https://raw.githubusercontent.com/ZeusNetworkHQ/zeus-metadata/master/logo-v2.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.21791536434945585,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC": {
+        "token_address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+        "token_name": "ai16z",
+        "token_symbol": "ai16z",
+        "token_icon": "https://ipfs.io/ipfs/QmcNTVAoyJ7zDbPnN9jwiMoB8uCoJBUP9RGmmiGGHv44yX",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.19081732045616842,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr": {
+        "token_address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr",
+        "token_name": "SPX6900 (Wormhole)",
+        "token_symbol": "SPX",
+        "token_icon": "https://assets.coingecko.com/coins/images/31401/standard/sticker_%281%29.jpg?1702371083",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 1.701597083161324,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+        "token_address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+        "token_name": "Wrapped Ether (Wormhole)",
+        "token_symbol": "WETH",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 2769.8860586281107,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY": {
+        "token_address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+        "token_name": "Moo Deng",
+        "token_symbol": "MOODENG",
+        "token_icon": "https://ipfs.io/ipfs/Qmf1g7dJZNDJHRQru7E7ENwDjcvu7swMUB6x9ZqPXr4RV2",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.1852,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6": {
+        "token_address": "A1KLoBrKBde8Ty9qtNQUtq3C2ortoC3u7twggz7sEto6",
+        "token_name": "Ondo US Dollar Yield",
+        "token_symbol": "USDY",
+        "token_icon": "https://hq3wjgefwtje2kue7bvqlevhns2udaharnibucrgui3lhgy4aniq.arweave.net/PDdkmIW00k0qhPhrBZKnbLVBgOCLUBoKJqI2s5scA1E",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1.092170013306092,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump": {
+        "token_address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+        "token_name": "Verse World",
+        "token_symbol": "Verse",
+        "token_icon": "https://pbs.twimg.com/profile_images/1905329904138301440/2E3XcOt4_400x400.jpg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.1662896776444441,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "vRseBFqTy9QLmmo5qGiwo74AVpdqqMTnxPqWoWMpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt": {
+        "token_address": "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt",
+        "token_name": "Serum",
+        "token_symbol": "SRM",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt/logo.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.016087823019827897,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "shixxut6zHRKnbCVqzBDB6tDBFWKqds92gu9n1HXj5i": {
+        "token_address": "shixxut6zHRKnbCVqzBDB6tDBFWKqds92gu9n1HXj5i",
+        "token_name": "Shisha Coin",
+        "token_symbol": "SHISHA",
+        "token_icon": "https://coin-images.coingecko.com/coins/images/52823/large/JbOFaEp4_400x400.jpg?1734419421",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.8910714674603333,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu": {
+        "token_address": "CLoUDKc4Ane7HeQcPpE3YHnznRxhMimJ4MyaUqyHFzAu",
+        "token_name": "Cloud",
+        "token_symbol": "CLOUD",
+        "token_icon": "https://arweave.net/N7vCgQdgQ-fab28zEB4m8QRLMwI91_KcXI-Gtr151gg",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.1490549133499306,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m": {
+        "token_address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+        "token_name": "Metaplex",
+        "token_symbol": "MPLX",
+        "token_icon": "https://arweave.net/VRKOcXIvCxqp35RZ9I0-bDGk5qNfT46OTho-2oP9iGc",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.12901612856304975,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6": {
+        "token_address": "TNSRxcUxoT9xBG3de7PiJyTDYu7kskLqcpddxnEJAS6",
+        "token_name": "Tensor",
+        "token_symbol": "TNSR",
+        "token_icon": "https://arweave.net/beGAyeIzjV_UkyjFtxbkZyi_YqfOBWayiQ0B6wqWygY",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.12696707436118743,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82": {
+        "token_address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82",
+        "token_name": "BOOK OF MEME",
+        "token_symbol": "BOME",
+        "token_icon": "https://bafkreihztk5poge7f2lz6logfjmhc7h7u6shvgacoktnuezks5oblmieue.ipfs.nftstorage.link",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0018556624880595525,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump": {
+        "token_address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+        "token_name": "Goatseus Maximus",
+        "token_symbol": "GOAT",
+        "token_icon": "https://ipfs.io/ipfs/QmapAq9WtNrtyaDtjZPAHHNYmpSZAQU6HywwvfSWq4dQVV",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.1213921255187888,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44": {
+        "token_address": "NeonTjSjsuo3rexg9o6vHuMXw62f9V7zvmu8M8Zut44",
+        "token_name": "Neon EVM Token",
+        "token_symbol": "NEON",
+        "token_icon": "https://neonevm.org/neon_token/neon_token.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.11610625547613558,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp": {
+        "token_address": "LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp",
+        "token_name": "Lifinity",
+        "token_symbol": "LFNTY",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LFNTYraetVioAPnGJht4yNg2aUZFXR776cMeN9VMjXp/logo.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1.0169958554099805,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx": {
+        "token_address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx",
+        "token_name": "GMT",
+        "token_symbol": "GMT",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx/logo.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.05226375112838669,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A": {
+        "token_address": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+        "token_name": "Helius Staked SOL",
+        "token_symbol": "hSOL",
+        "token_icon": "https://raw.githubusercontent.com/igneous-labs/lst-offchain-metadata/master/hSOL/hSOL.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 176.11195562913193,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "he1iusmfkpAdwvxLNGV8Y1iSbj4rUy6yMhEA3fotn9A",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "FgQ3sxj54SmVzttkxuK4bdiEnUNi6kF9Hyx3ezKW72hn": {
+        "token_address": "FgQ3sxj54SmVzttkxuK4bdiEnUNi6kF9Hyx3ezKW72hn",
+        "token_name": "ROVR Network",
+        "token_symbol": "ROVR",
+        "token_icon": "https://rovr.network/resource/rovr.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.009183015265249077,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "7atgF8KQo4wJrD5ATGX7t1V2zVvykPJbFfNeVf1icFv1": {
+        "token_address": "7atgF8KQo4wJrD5ATGX7t1V2zVvykPJbFfNeVf1icFv1",
+        "token_name": "catwifhat",
+        "token_symbol": "$CWIF",
+        "token_icon": "https://bafkreigmg552j5o5qv5ra6hvg4by4qzjjichzsyaljhmyvwe5qkjphgxoi.ipfs.nftstorage.link",
+        "token_decimals": 2,
+        "token_type": "token",
+        "price_usdt": 8.303141827112449E-8,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh": {
+        "token_address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
+        "token_name": "Solayer SOL",
+        "token_symbol": "sSOL",
+        "token_icon": "https://raw.githubusercontent.com/solayer-labs/token-metadata/main/logo.jpg",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 174.4236054556338,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr": {
+        "token_address": "HzwqbKZw8HxMN6bF2yFZNrht3c2iXXzpKcFu7uBEDKtr",
+        "token_name": "EURC",
+        "token_symbol": "EURC",
+        "token_icon": "https://www.circle.com/eurc-icon",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1.1584815311036574,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb": {
+        "token_address": "MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb",
+        "token_name": "MAPS",
+        "token_symbol": "MAPS",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MAPS41MDahZ9QdKXhVa4dWB9RuyfV4XqhyAZ8XcYepb/logo.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0071648638973389345,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp": {
+        "token_address": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
+        "token_name": "Bonfida",
+        "token_symbol": "FIDA",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp/logo.svg",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.07021404621638425,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "BCNT4t3rv5Hva8RnUtJUJLnxzeFAabcYp8CghC1SmWin": {
+        "token_address": "BCNT4t3rv5Hva8RnUtJUJLnxzeFAabcYp8CghC1SmWin",
+        "token_name": "BCGame Coin",
+        "token_symbol": "BC",
+        "token_icon": "https://gateway.irys.xyz/gTu1gCg7KPo0mZSUHsAjEHg4pkKlYZszNyK3A2pb_x4",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.0057532742918001995,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump": {
+        "token_address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+        "token_name": "FWOG",
+        "token_symbol": "FWOG",
+        "token_icon": "https://cf-ipfs.com/ipfs/QmQ4H6Y23dSEjn9LKB85M7KpVFiDu6KfDNZAcrqiCwFQQH",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.057926112349759036,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": "https://pump.mypinata.cloud/ipfs/QmQ4H6Y23dSEjn9LKB85M7KpVFiDu6KfDNZAcrqiCwFQQH",
+        "token_label": {
+          "token_address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E": {
+        "token_address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+        "token_name": "Wrapped Bitcoin (Sollet)",
+        "token_symbol": "BTC",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 3181.4375500400324,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP": {
+        "token_address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+        "token_name": "test griffain.com",
+        "token_symbol": "GRIFFAIN",
+        "token_icon": "https://griffain.com/logo.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.05096184325589265,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump": {
+        "token_address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+        "token_name": "Act I : The AI Prophecy",
+        "token_symbol": "ACT",
+        "token_icon": "https://ipfs.io/ipfs/QmUfrHNLqia7NmqgbzHYGF4rtX75nEwukPFFU1YscKKquL",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.04864211910438747,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "Kruj63Qx9EQX9QzukLCBgx5g9AGW69gPDsSK25FRZAi": {
+        "token_address": "Kruj63Qx9EQX9QzukLCBgx5g9AGW69gPDsSK25FRZAi",
+        "token_name": "EnKryptedAI",
+        "token_symbol": "KRAI",
+        "token_icon": "https://ipfs.io/ipfs/QmeR75gX8kuwbFzLzj2GBDLNbZjpS4ezsV1zjyCP4uw7F7",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.041931781649148785,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx": {
+        "token_address": "ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx",
+        "token_name": "Star Atlas",
+        "token_symbol": "ATLAS",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx/logo.png",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 0.0010669767448450052,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD": {
+        "token_address": "FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD",
+        "token_name": "BRZ",
+        "token_symbol": "BRZ",
+        "token_icon": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FtgGSFADXBtroxq8VCausXRr2of47QBf5AS1NtZCu4GD/logo.png",
+        "token_decimals": 4,
+        "token_type": "token",
+        "price_usdt": 0.15785781869446702,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "B89Hd5Juz7JP2dxCZXFJWk4tMTcbw7feDhuWGb3kq5qE": {
+        "token_address": "B89Hd5Juz7JP2dxCZXFJWk4tMTcbw7feDhuWGb3kq5qE",
+        "token_name": "Nodecoin",
+        "token_symbol": "NC",
+        "token_icon": "https://arweave.net/3fUHo_BbHmQnBYM1BNAj8pECYuAYYNYfVXdZ88yLSfc",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.034422966850756055,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "H4SFaUnxrZRoFnhBeotZnuqw4mfVtJ2nCvGrPmQupump": {
+        "token_address": "H4SFaUnxrZRoFnhBeotZnuqw4mfVtJ2nCvGrPmQupump",
+        "token_name": "Hot Mom",
+        "token_symbol": "HOTMOM",
+        "token_icon": "https://ipfs.io/ipfs/QmczcKHjmAqfdhm4HM6ETqEx7dPk1Ksfi56DWupTFremXb",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.03464156371944616,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "H4SFaUnxrZRoFnhBeotZnuqw4mfVtJ2nCvGrPmQupump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump": {
+        "token_address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+        "token_name": "AI Rig Complex",
+        "token_symbol": "arc",
+        "token_icon": "https://ipfs.io/ipfs/QmPDJuEobBcLZihjFCvkWA8c1FiW7UzM2ctFdiffSLxf1d",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.03408133187610015,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "M1M6sdffCs3ozzhpRveweRCWdZhxth4mvVujPtYEC3h": {
+        "token_address": "M1M6sdffCs3ozzhpRveweRCWdZhxth4mvVujPtYEC3h",
+        "token_name": "MAGIC INTERNET MONEY (Bitcoin)",
+        "token_symbol": "MIM",
+        "token_icon": "https://metadata.runemine.com/magicinternetmoney.png",
+        "token_decimals": 2,
+        "token_type": "token",
+        "price_usdt": 0.001500404141539067,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "ASRRjA1R4RHVk5H9QKKm1jaQqMkxvv6nh5EypPrvwmxQ": {
+        "token_address": "ASRRjA1R4RHVk5H9QKKm1jaQqMkxvv6nh5EypPrvwmxQ",
+        "token_name": "Assisterr AI",
+        "token_symbol": "ASRR",
+        "token_icon": "https://raw.githubusercontent.com/assister-xyz/slm-integrations/79c7ff32b6071acee6842480a50b8d0e1c11322f/assisterr-bl-w.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.33595264176823686,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE": {
+        "token_address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+        "token_name": "Cogent SOL",
+        "token_symbol": "cgntSOL",
+        "token_icon": "https://cogent-cogs.s3.us-west-2.amazonaws.com/cgntSOL.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 192.195995181346,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "CgnTSoL3DgY9SFHxcLj6CgCgKKoTBr6tp4CPAEWy25DE",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn": {
+        "token_address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+        "token_name": "zerebro",
+        "token_symbol": "ZEREBRO",
+        "token_icon": "https://ipfs.io/ipfs/QmZ1HDSibY2LdEmC1tPHK36ApGCQACJENqsbPsT2nc29AD",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.02954801912893756,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "8x5VqbHA8D7NkD52uNuS5nnt3PwA8pLD34ymskeSo2Wn",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump": {
+        "token_address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+        "token_name": "Bertram The Pomeranian",
+        "token_symbol": "Bert",
+        "token_icon": "https://assets.coingecko.com/coins/images/51480/standard/photo_2025-04-22_23.04.39.png?1745405423",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.031186704813514845,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk": {
+        "token_address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+        "token_name": "Wen",
+        "token_symbol": "WEN",
+        "token_icon": "https://assets.coingecko.com/coins/images/34856/standard/wen-logo-new.jpg?1741334229",
+        "token_decimals": 5,
+        "token_type": "token",
+        "price_usdt": 0.00003920917197840609,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e": {
+        "token_address": "6dKCoWjpj5MFU5gWDEFdpUUeBasBLK3wLEwhUzQPAa1e",
+        "token_name": "Chintai",
+        "token_symbol": "CHEX",
+        "token_icon": "https://chintai.io/images/icon.png",
+        "token_decimals": 8,
+        "token_type": "token",
+        "price_usdt": 0.2399239752522618,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX": {
+        "token_address": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
+        "token_name": "picoSOL",
+        "token_symbol": "picoSOL",
+        "token_icon": "https://arweave.net/zR2ZKXpwmG4hMpqhGXlvz-B7PMs34cXxVb2gC1DmlDo",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 180.44847508895978,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "picobAEvs6w7QEknPce34wAE4gknZA9v5tTonnmHYdX",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp": {
+        "token_address": "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp",
+        "token_name": "Liquid Staking Token",
+        "token_symbol": "LST",
+        "token_icon": "https://storage.googleapis.com/static-marginfi/lst.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 228.1261336066513,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "LSTxxxnJzKDFSLr4dUkPcmCf5VyryEqzPLz5j4bpxFp",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "bgSoLfRx1wRPehwC9TyG568AGjnf1sQG1MYa8s3FbfY": {
+        "token_address": "bgSoLfRx1wRPehwC9TyG568AGjnf1sQG1MYa8s3FbfY",
+        "token_name": "Bitget Staked SOL",
+        "token_symbol": "BGSOL",
+        "token_icon": "https://img.bgstatic.com/bgsol/bgsol.png",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 173.88,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx": {
+        "token_address": "6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx",
+        "token_name": "RETARDIO",
+        "token_symbol": "RETARDIO",
+        "token_icon": "https://assets.coingecko.com/coins/images/35759/standard/RETARDIO_LOGO.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.02268769193171246,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump": {
+        "token_address": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+        "token_name": "swarms",
+        "token_symbol": "swarms",
+        "token_icon": "https://ipfs.io/ipfs/QmYhYx1r94b8apSJpRjUujCE5xXhzLXzXaR3ZmdGfUkvGb",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.02204101633094521,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "74SBV4zDXxTRgv1pEMoECskKBkZHc2yGPnc7GYVepump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "mtQ5jWgCqrgBiSut29b4HV19RkMBGA6vidwTMqhNmyy": {
+        "token_address": "mtQ5jWgCqrgBiSut29b4HV19RkMBGA6vidwTMqhNmyy",
+        "token_name": "Qkacoin",
+        "token_symbol": "QKA",
+        "token_icon": "https://pbs.twimg.com/profile_images/1880997629238415360/xxNBAf7h_400x400.jpg",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.68721,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk": {
+        "token_address": "NFTUkR4u7wKxy9QLaX2TGvd9oZSWoMo4jqSJqdMb7Nk",
+        "token_name": "Blockasset",
+        "token_symbol": "BLOCK",
+        "token_icon": "https://i.imgur.com/6BU5uEY.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.06757804915910434,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr": {
+        "token_address": "GyWgeqpy5GueU2YbkE8xqUeVEokCMMCEeUrfbtMw6phr",
+        "token_name": "BlackRock USD Institutional Digital Liquidity Fund",
+        "token_symbol": "BUIDL",
+        "token_icon": "https://metadata.securitize.io/buidl_logo_512.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 1,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp": {
+        "token_address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+        "token_name": "michi",
+        "token_symbol": "$michi",
+        "token_icon": "https://i.ibb.co/GxG0314/5mb-K36-SZ7-J19-An8j-Fochh-QS4of8g6-Bw-Ujbe-CSx-BSo-Wdp.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.03786321216282021,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "EzgfrTjgFyHGaU5BEBRETyfawt66bAYqJvcryWuJtQ5w": {
+        "token_address": "EzgfrTjgFyHGaU5BEBRETyfawt66bAYqJvcryWuJtQ5w",
+        "token_name": "Borzoi",
+        "token_symbol": "Borzoi",
+        "token_icon": "https://ipfs.io/ipfs/QmR67A5TVsfJJdtPkWX4Sgk4C9HvHBhyYNAMBE4K7acUZD",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.00200309,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "CN162nCPpq3DxPCyKLbAvEJeB1aCxsnVTEG4ZU8vpump": {
+        "token_address": "CN162nCPpq3DxPCyKLbAvEJeB1aCxsnVTEG4ZU8vpump",
+        "token_name": "AGENDA 47",
+        "token_symbol": "A47",
+        "token_icon": "https://assets.coingecko.com/coins/images/54093/standard/logo-2-A47-Breaking-Memes-01-%282%29_%282%29.png?1741895374",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.01981920683771002,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "CN162nCPpq3DxPCyKLbAvEJeB1aCxsnVTEG4ZU8vpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa": {
+        "token_address": "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa",
+        "token_name": "Send",
+        "token_symbol": "SEND",
+        "token_icon": "https://tgnrqry5tpxb5imfstlqu2mdqpm3zwmmaxrrakjxuinvpwhkanca.arweave.net/mZsYRx2b7h6hhZTXCmmDg9m82YwF4xApN6IbV9jqA0Q",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.017561170214669942,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump": {
+        "token_address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+        "token_name": "Pippin",
+        "token_symbol": "pippin",
+        "token_icon": "https://ipfs.io/ipfs/QmdcvSSBg7gWD4tvfXv3PuLtAiPyDZ5Z9w4LQVeRJKL3Lz",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.01739311201017284,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "Dfh5DzRgSvvCFDoYc2ciTkMrbDfRKybA4SoFbPmApump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2": {
+        "token_address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+        "token_name": "TROLL",
+        "token_symbol": "TROLL",
+        "token_icon": "https://assets.coingecko.com/coins/images/55282/standard/trolllogo.png?1745215015",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.017773287394931846,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "5UUH9RTDiSpq6HKS6bp4NdU9PNJpXRXuiw6ShBTBhgH2",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump": {
+        "token_address": "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump",
+        "token_name": "Hyperpigmentation",
+        "token_symbol": "HYPER",
+        "token_icon": "https://dd.dexscreener.com/ds-data/tokens/solana/Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump.png?size=lg&key=cf9dae",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.01684549751010742,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "Aq8Gocyvyyi8xk5EYxd6viUfVmVvs9T9R6mZFzZFpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump": {
+        "token_address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+        "token_name": "titcoin",
+        "token_symbol": "titcoin",
+        "token_icon": "https://ipfs.io/ipfs/QmdnAHMWTbxfRkwdf1QweP8rJL1SCe2XbjFTFzCCjw5oAD",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.01732718751493556,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "FtUEW73K6vEYHfbkfpdBZfWpxgQar2HipGdbutEhpump",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T": {
+        "token_address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+        "token_name": "HeyAnon",
+        "token_symbol": "Anon",
+        "token_icon": "https://dd.dexscreener.com/ds-data/tokens/solana/9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T.png?size=lg&key=f8b3a5",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 5.041021380314428,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5": {
+        "token_address": "8Ki8DpuWNxu9VsS3kQbarsCWMcFGWkzzA8pUPto9zBd5",
+        "token_name": "LOCK IN",
+        "token_symbol": "LOCKIN",
+        "token_icon": "https://ipfs.io/ipfs/Qmc2SJQW4K7UYYVLdoKSf4cGVZbuFGTF4dZiAdRtivNkpX",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.01636021937160157,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C": {
+        "token_address": "fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C",
+        "token_name": "Dupe",
+        "token_symbol": "DUPE",
+        "token_icon": "https://dd.dexscreener.com/ds-data/tokens/solana/fRfKGCriduzDwSudCwpL7ySCEiboNuryhZDVJtr1a1C.png?size=lg&key=e0ede6",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.016194665679027914,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "CoRAitPvr9seu5F9Hk39vbjqA1o1XuoryHjSk1Z1q2mo": {
+        "token_address": "CoRAitPvr9seu5F9Hk39vbjqA1o1XuoryHjSk1Z1q2mo",
+        "token_name": "Coral Protocol",
+        "token_symbol": "CORAL",
+        "token_icon": "https://ipfs.io/ipfs/QmTh1dWucHzMKcGQDHpR95pMUXREWpu2KnfiThvKFgbB7R",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.001577892076648582,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "Ee4ooSk6GMC34T1Gbh8rRY2XLyuk2FsyiWtq3jrHUcPR": {
+        "token_address": "Ee4ooSk6GMC34T1Gbh8rRY2XLyuk2FsyiWtq3jrHUcPR",
+        "token_name": "VNX",
+        "token_symbol": "VNX",
+        "token_icon": "https://arweave.net/pwHLXdCWdcZCKJ-SQaE3l1-hDM1bDjE8BXKs9D9Kdls",
+        "token_decimals": 9,
+        "token_type": "token",
+        "price_usdt": 0.04964417286983907,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk": {
+        "token_address": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+        "token_name": "Hosico cat",
+        "token_symbol": "Hosico",
+        "token_icon": "https://sapphire-working-koi-276.mypinata.cloud/ipfs/bafkreihev5l3pt2xzyvch2cco5qhimguamdztns2pgpi67tj7punzo34ku",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.01702784979722053,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null,
+        "token_label": {
+          "token_address": "9wK8yN6iz1ie5kEJkvZCTxyN1x5sTdNfx8yeMY8Ebonk",
+          "token_name": "",
+          "token_symbol": "",
+          "token_icon": ""
+        }
+      },
+      "CvB1ztJvpYQPvdPBePtRzjL4aQidjydtUz61NWgcgQtP": {
+        "token_address": "CvB1ztJvpYQPvdPBePtRzjL4aQidjydtUz61NWgcgQtP",
+        "token_name": "Epics Token",
+        "token_symbol": "EPCT",
+        "token_icon": "https://bafybeibal7k2hz6frznyjbl4qcnzcwlsuzxmquatrsaly6ttmuppgmdvwe.ipfs.dweb.link/EpicsCoin.png",
+        "token_decimals": 6,
+        "token_type": "token",
+        "price_usdt": 0.014927868237680027,
+        "reputation": "neutral",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true,
+        "token_icon_alternative": null
+      },
+      "So11111111111111111111111111111111111111111": {
+        "token_address": "So11111111111111111111111111111111111111111",
+        "token_decimals": 9,
+        "token_name": "SOL",
+        "token_symbol": "SOL",
+        "token_type": "token",
+        "token_icon": "https://statics.solscan.io/solscan-img/solana_icon.svg",
+        "price_usdt": 160.55087568614002,
+        "reputation": "ok",
+        "is_show_value": true,
+        "is_calculate_on_portfolio": true,
+        "is_show_icon": true
+      }
+    },
+    "accounts": {},
+    "tags": {},
+    "programs": {},
+    "nftCollections": {},
+    "nftMarketplaces": {}
+  }
+}

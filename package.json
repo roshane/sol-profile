@@ -1,0 +1,24 @@
+{
+  "name": "sol-profile",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "main": "node ./src/main.js",
+    "test": "npm test",
+    "lint": "prettier src/ --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshane/sol-profile.git"
+  },
+  "author": "roshane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshane/sol-profile/issues"
+  },
+  "homepage": "https://github.com/roshane/sol-profile#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
